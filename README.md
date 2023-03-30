@@ -1,3 +1,3 @@
 # LeetCodeProblems
 
-Solutions to the problem list ***popular interview questions*** from [LeetCode](https://leetcode.com/problem-list/top-interview-questions/).
+Solutions to the problem list [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/) from **LeetCode**.
