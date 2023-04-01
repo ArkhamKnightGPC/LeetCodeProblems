@@ -27,6 +27,6 @@ class Solution:
                 if(largestEvenLength > longestPalindromeLength):
                     longestPalindromeBegin = largestEvenBegin
                     longestPalindromeLength = largestEvenLength
-        #now we build answer to return
+        #now return longest palindrome found
         return s[longestPalindromeBegin:longestPalindromeBegin+longestPalindromeLength]
         
