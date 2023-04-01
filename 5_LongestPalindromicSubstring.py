@@ -28,7 +28,5 @@ class Solution:
                     longestPalindromeBegin = largestEvenBegin
                     longestPalindromeLength = largestEvenLength
         #now we build answer to return
-        answer = ""
-        for i in range(longestPalindromeBegin, longestPalindromeBegin+longestPalindromeLength):
-            answer += s[i]
-        return answer
+        return s[longestPalindromeBegin:longestPalindromeBegin+longestPalindromeLength]
+        
